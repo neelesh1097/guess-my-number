@@ -1,0 +1,25 @@
+@media screen and (max-width:991px){
+    h1{
+        font-size: 2rem;
+    }
+    .btn{
+        padding: 1rem 1.2rem;
+        font-size:1rem;
+    }
+    p{
+        font-size: 1.3rem !important;
+    }
+    .between{
+        font-size: 1rem !important;
+    }
+  .number{
+    font-size: 3rem;
+    padding: 2rem;
+    width: 19rem;
+  }
+  .guess{
+    font-size: 2rem;
+    padding: 1rem;
+    width: 10rem;
+  }
+}
